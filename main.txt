@@ -2,3 +2,6 @@ This is my new repo
 I am making 
 this project 
 for my practice
+I am making this for fun and i am passionate to learn programming.
+I am Backend Developer
+I am also learning Python 
